@@ -1,0 +1,2 @@
+../Sensor/sensor.c:15:1:sensor	16	static
+../Sensor/sensor.c:22:9:SensorRead	8	static
